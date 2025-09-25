@@ -1,0 +1,10 @@
+REFLECTION QUESTIONS
+---------------------
+
+STACK REFLECTION:
+Q: Why do stacks model temporary memory?
+A: Stacks model temporary memory because of their Last-In-First-Out (LIFO) nature. In computing, temporary data like function calls, expressions, or undo operations are stored in stacks. The most recent data is accessed first, which is perfect for handling nested operations or temporary state storage.
+
+QUEUE REFLECTION:
+Q: Why does FIFO ensure fairness in schools?
+A: FIFO (First-In-First-Out) ensures fairness because each student is served in the exact order they arrived. This method prevents jumping the queue and ensures that everyone waits their turn. It promotes equity and transparency in processes like meal distribution, registration, or consultation.
